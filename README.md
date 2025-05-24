@@ -1,4 +1,4 @@
-# Egypt Heritage Sites - GIS Web Application
+#  Egypt Historical Sites- GIS Web Application
 
 A comprehensive Geographic Information System (GIS) web application for exploring Egyptian heritage sites using interactive mapping technology.
 
@@ -9,11 +9,7 @@ A comprehensive Geographic Information System (GIS) web application for explorin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
 
-## 🌟 Live Demo
 
-**[View Live Application](https://YOUR_USERNAME.github.io/egypt-heritage-gis/)**
-
-*Replace YOUR_USERNAME with your actual GitHub username*
 
 ## 📋 Features
 
