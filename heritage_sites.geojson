@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Giza Pyramids",
+        "Description": "One of the most famous archaeological sites in the world, home to the Great Pyramid of Giza."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.1342, 29.9792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karnak Temple",
+        "Description": "A vast ancient Egyptian temple complex located in Luxor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.6573, 25.7188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Abu Simbel Temples",
+        "Description": "Two massive rock temples in southern Egypt near the border with Sudan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.6258, 22.3372]
+      }
+    }
+  ]
+}
