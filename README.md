@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Live Demo
 
-**[View Live Application]((https://ahmedmrashed22.github.io/Egypt-Historical-Sites-webmap-/))**
+**[View Live Application] ((https://ahmedmrashed22.github.io/Egypt-Historical-Sites-webmap-/))**
 
 ---
 
